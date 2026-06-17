@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>world leaders - Google Search</title>
+</head>
+<body>
+
+  <header style="padding: 20px;">
+    <h1 style="color: #4285F4; display: inline;">G</h1><span style="color: #EA4335; font-size: 2em;">o</span><span style="color: #FBBC05; font-size: 2em;">o</span><span style="color: #4285F4; font-size: 2em;">g</span><span style="color: #34A853; font-size: 2em;">l</span><span style="color: #EA4335; font-size: 2em;">e</span>
+
+    <form style="margin-top: 15px;">
+      <input type="text" value="world leaders" style="width: 300px; padding: 8px;">
+      <button type="submit">Search</button>
+    </form>
+
+    <p>About 1,930,000,000 results (0.42 seconds)</p>
+  </header>
+
+  <hr>
+
+  <main style="padding: 0 20px;">
+
+    <div style="margin-bottom: 25px;">
+      <a href="https://en.wikipedia.org/wiki/List_of_current_heads_of_state_and_government" style="font-size: 1.2em; color: #1a0dab;">List of current heads of state and government - Wikipedia</a>
+      <p style="color: green; margin: 2px 0;">https://en.wikipedia.org/wiki/List_of_current_heads_of_state_and_government</p>
+      <p>
+        A complete list of every country's <strong>leader</strong>, including
+        presidents, prime ministers, and monarchs, updated as governments
+        change around the <em>world</em>.
+      </p>
+    </div>
+
+    <div style="margin-bottom: 25px;">
+      <a href="https://www.un.org/en/about-us/member-states" style="font-size: 1.2em; color: #1a0dab;">Member States | United Nations</a>
+      <p style="color: green; margin: 2px 0;">https://www.un.org/en/about-us/member-states</p>
+      <p>
+        Browse the official list of UN member states and their representing
+        <strong>leaders</strong>, plus background on each country's role in
+        <em>world</em> affairs.
+      </p>
+    </div>
+
+    <div style="margin-bottom: 25px;">
+      <a href="https://www.britannica.com/topic/heads-of-state" style="font-size: 1.2em; color: #1a0dab;">Heads of State and Government - Britannica</a>
+      <p style="color: green; margin: 2px 0;">https://www.britannica.com/topic/heads-of-state</p>
+      <p>
+        Profiles and biographies of major <em>world</em>
+        <strong>leaders</strong>, past and present, with details on their
+        rise to power and policy legacies.
+      </p>
+    </div>
+
+    <div style="margin-bottom: 25px;">
+      <a href="https://www.cia.gov/the-world-factbook/" style="font-size: 1.2em; color: #1a0dab;">The World Factbook - Central Intelligence Agency</a>
+      <p style="color: green; margin: 2px 0;">https://www.cia.gov/the-world-factbook/</p>
+      <p>
+        Country profiles covering government structure, current
+        <strong>leaders</strong>, and political systems for every nation in
+        the <em>world</em>.
+      </p>
+    </div>
+
+    <div style="margin-bottom: 25px;">
+      <a href="https://www.cfr.org/global-leaders" style="font-size: 1.2em; color: #1a0dab;">Global Leaders Tracker - Council on Foreign Relations</a>
+      <p style="color: green; margin: 2px 0;">https://www.cfr.org/global-leaders</p>
+      <p>
+        A tracker covering major <em>world</em> <strong>leaders</strong>,
+        their key policies, and how their decisions shape international
+        relations.
+      </p>
+    </div>
+
+    <hr>
+
+    <h3>Related searches</h3>
+    <ul style="list-style: none; padding: 0;">
+      <li>list of <strong>world leaders</strong> 2026</li>
+      <li>current presidents and prime ministers</li>
+      <li>most powerful world leaders</li>
+      <li>world leaders today</li>
+      <li>female world leaders</li>
+      <li>youngest world leaders</li>
+      <li>g20 world leaders</li>
+      <li>world leaders summit</li>
+      <li>world leaders quotes</li>
+      <li>famous world leaders in history</li>
+    </ul>
+
+  </main>
+
+</body>
+</html>

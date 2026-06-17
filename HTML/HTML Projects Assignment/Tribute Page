@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tribute Page - John Michuki</title>
+</head>
+<body>
+
+  <main id="main">
+
+    <h1 id="title">John Michuki</h1>
+    <p>The minister who tamed Kenya's matatu industry</p>
+
+    <div id="img-div">
+     <img id="image" src="images/Michuki.jpg" alt="John Michuki">
+      <p id="img-caption">
+        John Michuki addressing the press during his time as a Cabinet Minister
+        in Kenya.
+      </p>
+    </div>
+
+    <p id="tribute-info">Here's a timeline of John Michuki's life:</p>
+
+    <ul>
+      <li>1932 - Born in Muguru village, Iyego Location, Kangema Division, Murang'a District</li>
+      <li>1943 - Drops out of school due to financial problems and moves to Nairobi to work in tailoring</li>
+      <li>1945 - Passes his Kenya African Primary Education (KAPE) exam at Kiangunyi Primary School</li>
+      <li>1947 - Joins Nyeri High School, later moving to Mang'u High School for his A-Levels, where he meets lifelong friend Mwai Kibaki</li>
+      <li>1957 - Begins his civil service career as a clerk in the Provincial Administration</li>
+      <li>1961 - Graduates from Worcester College, Oxford, with a degree in Economics, Finance and Public Administration</li>
+      <li>1961 - Returns to Kenya and becomes the first African District Commissioner</li>
+      <li>1970s-1990s - Serves as Permanent Secretary in the Finance Ministry and Chairman of the Kenya Commercial Bank</li>
+      <li>2002 - Appointed Cabinet Minister under President Mwai Kibaki</li>
+      <li>2004 - Introduces the "Michuki Rules" as Minister of Transport, drastically reducing road accidents and restoring order to the matatu industry</li>
+      <li>2007-2008 - Serves as Minister for Internal Security during the post-election violence period</li>
+      <li>2008 - Becomes Minister for Environment and Natural Resources</li>
+      <li>2012 - Dies at the age of 79</li>
+    </ul>
+
+    <p id="tribute-info">
+      "When you rattle a snake, you must be prepared to be bitten."<br>
+      -- John Michuki
+    </p>
+
+    <p>
+      If you have time, you should read more about this incredible leader on his
+      <a id="tribute-link" href="https://en.wikipedia.org/wiki/John_Michuki" target="_blank">Wikipedia entry</a>.
+    </p>
+
+  </main>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 20px;
+    }
+
+    #main {
+      background-color: white;
+      max-width: 700px;
+      margin: 0 auto;
+      padding: 20px 30px;
+      border-radius: 8px;
+    }
+
+    #title {
+      margin-bottom: 5px;
+    }
+
+    #img-div {
+      text-align: center;
+      margin: 20px 0;
+    }
+
+    #image {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+
+    #img-caption {
+      font-style: italic;
+      color: #555;
+      font-size: 14px;
+      margin-top: 8px;
+    }
+
+    li {
+      margin-bottom: 8px;
+      line-height: 1.5;
+    }
+
+    #tribute-link {
+      color: #2980b9;
+    }
+  </style>
+
+</body>
+</html>
