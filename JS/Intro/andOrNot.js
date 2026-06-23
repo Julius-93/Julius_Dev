@@ -38,3 +38,34 @@ console.log(`mercy is age is greter than 18
 let simplified = mercy_age > 18 && mercy_balance > 20000;
 console.log(`simplified ${simplified}`);
 console.log(`further simplification is ${mercy_age > 18 && mercy_balance > 20000}`);
+
+
+// Define the values first
+let jane_age = 25
+let jane_balance = 30000
+
+// --- AND ( && ) : BOTH sides must be true ---
+let jane_is_greater_than_18 = jane_age > 18
+console.log(`Is jane age greater than 18 ${jane_is_greater_than_18}`)
+
+let jane_has_more_than_20k = jane_balance > 20000
+console.log(`Jane has more than 20k ${jane_has_more_than_20k}`)
+
+console.log(`jane age is greater than 18
+    and has more than 20k in her account
+    ${jane_is_greater_than_18 && jane_has_more_than_20k}
+    `)
+// jane_age>18&&jane_balance>20000
+let jane_simplified = jane_age > 18 && jane_balance > 20000
+console.log(`simplified ${jane_simplified}`)
+console.log(`further simplification is ${jane_age > 18 && jane_balance > 20000}`)
+
+console.log(`jane age is greater than 18
+    or she has more than 20k in her account
+    ${jane_is_greater_than_18 || jane_has_more_than_20k}
+    `)
+/*
+or at least one side must be true for the whole statement to be true
+*/
+console.log(`This is not true = ${!true}`)
+console.log(`This is not false = ${!false}`)
