@@ -61,6 +61,7 @@ print("Set without duplicates:", c)
 # A tuple stores multiple items using parentheses ().
 # A tuple is ordered and allows duplicates.
 # Unlike a list, a tuple is immutable and cannot be changed.
+# Immutable means a value cannot be changed after it has been created.  
 d = (1, 2, 2, 3)
 
 print("Tuple:", d)
